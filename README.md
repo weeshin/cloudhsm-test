@@ -1,7 +1,7 @@
 
 # Configure cloudhsm username and password in application.properties
-hsm.username = <username>
-hsm.password = <password>
+hsm.username = username
+hsm.password = password
 
 # Configure thread size
 thread.size = 500
