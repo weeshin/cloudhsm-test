@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<cloudhsmVersion>3.2.0</cloudhsmVersion>
+		<cloudhsmVersion>3.2.1</cloudhsmVersion>
 		<cloudhsmJarPath>${project.basedir}/lib/cloudhsm-${cloudhsmVersion}.jar</cloudhsmJarPath>
 	</properties>
 
